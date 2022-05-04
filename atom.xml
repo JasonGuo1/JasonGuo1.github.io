@@ -6,7 +6,7 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2022-05-04T15:35:28.488Z</updated>
+  <updated>2022-05-04T15:45:33.091Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>《风声》</title>
+    <link href="http://jasonguo1.github.io/posts/2e5770a7.html"/>
+    <id>http://jasonguo1.github.io/posts/2e5770a7.html</id>
+    <published>2022-05-04T15:44:27.000Z</published>
+    <updated>2022-05-04T15:45:33.091Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这部剧真的很好看，后面慢慢写。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="电视剧" scheme="http://jasonguo1.github.io/categories/%E7%94%B5%E8%A7%86%E5%89%A7/"/>
+    
+    
+    <category term="风声" scheme="http://jasonguo1.github.io/tags/%E9%A3%8E%E5%A3%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>练习md语法</title>
     <link href="http://jasonguo1.github.io/posts/8c643033.html"/>
     <id>http://jasonguo1.github.io/posts/8c643033.html</id>
     <published>2022-05-04T15:16:15.000Z</published>
-    <updated>2022-05-04T15:35:28.488Z</updated>
+    <updated>2022-05-04T15:35:52.080Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;最喜欢李白的诗&quot;&gt;&lt;a href=&quot;#最喜欢李白的诗&quot; class=&quot;headerlink&quot; title=&quot;最喜欢李白的诗&quot;&gt;&lt;/a&gt;最喜欢李白的诗&lt;/h1&gt;&lt;p&gt;慢慢补充。&lt;/p&gt;
