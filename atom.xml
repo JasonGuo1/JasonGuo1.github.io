@@ -6,7 +6,7 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2022-05-04T13:49:38.279Z</updated>
+  <updated>2022-05-04T15:35:28.488Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>练习md语法</title>
+    <link href="http://jasonguo1.github.io/posts/8c643033.html"/>
+    <id>http://jasonguo1.github.io/posts/8c643033.html</id>
+    <published>2022-05-04T15:16:15.000Z</published>
+    <updated>2022-05-04T15:35:28.488Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;最喜欢李白的诗&quot;&gt;&lt;a href=&quot;#最喜欢李白的诗&quot; class=&quot;headerlink&quot; title=&quot;最喜欢李白的诗&quot;&gt;&lt;/a&gt;最喜欢李白的诗&lt;/h1&gt;&lt;p&gt;慢慢补充。&lt;/p&gt;
+&lt;h2 id=&quot;下面附上一首《梦游天姥吟留别》&quot;&gt;&lt;a href=&quot;#下面附上一首《梦游天姥吟留别》&quot; class=&quot;headerlink&quot; title=&quot;下面附上一首《梦游天姥吟留别》&quot;&gt;&lt;/a&gt;下面附上一首《梦游天姥吟留别》&lt;/h2&gt;</summary>
+    
+    
+    
+    <category term="李白的诗" scheme="http://jasonguo1.github.io/categories/%E6%9D%8E%E7%99%BD%E7%9A%84%E8%AF%97/"/>
+    
+    
+    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>常用站点</title>
@@ -56,11 +76,11 @@
     <category term="杂记" scheme="http://jasonguo1.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
+    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
     <category term="游记" scheme="http://jasonguo1.github.io/tags/%E6%B8%B8%E8%AE%B0/"/>
     
     <category term="旅行" scheme="http://jasonguo1.github.io/tags/%E6%97%85%E8%A1%8C/"/>
-    
-    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="回忆" scheme="http://jasonguo1.github.io/tags/%E5%9B%9E%E5%BF%86/"/>
     
