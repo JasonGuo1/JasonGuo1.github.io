@@ -6,7 +6,7 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2022-05-04T15:45:33.091Z</updated>
+  <updated>2022-05-05T00:57:34.873Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
@@ -17,11 +17,130 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>图床搭建技巧</title>
+    <link href="http://jasonguo1.github.io/posts/c7c49309.html"/>
+    <id>http://jasonguo1.github.io/posts/c7c49309.html</id>
+    <published>2022-05-05T00:29:56.000Z</published>
+    <updated>2022-05-05T00:57:34.873Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;记录博客图床搭建过程，希望能帮助到有需要的人&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="http://jasonguo1.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="图床" scheme="http://jasonguo1.github.io/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>typora编辑器用法</title>
+    <link href="http://jasonguo1.github.io/posts/3f28c62d.html"/>
+    <id>http://jasonguo1.github.io/posts/3f28c62d.html</id>
+    <published>2022-05-05T00:25:06.000Z</published>
+    <updated>2022-05-05T00:48:26.875Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;typora和vscode都是很好用的代码编辑器&lt;br&gt;typora专注于markdown格式文件编辑，轻便好用&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="http://jasonguo1.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="typora" scheme="http://jasonguo1.github.io/tags/typora/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown语法整理</title>
+    <link href="http://jasonguo1.github.io/posts/ee8f6acc.html"/>
+    <id>http://jasonguo1.github.io/posts/ee8f6acc.html</id>
+    <published>2022-05-05T00:23:52.000Z</published>
+    <updated>2022-05-05T00:44:09.213Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;p&gt;。。。待写&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;具体详细查阅请见：&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://jasonguo1.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="markdown" scheme="http://jasonguo1.github.io/tags/markdown/"/>
+    
+    <category term="md" scheme="http://jasonguo1.github.io/tags/md/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>10个人生道理</title>
+    <link href="http://jasonguo1.github.io/posts/7aa01b91.html"/>
+    <id>http://jasonguo1.github.io/posts/7aa01b91.html</id>
+    <published>2022-05-05T00:23:14.000Z</published>
+    <updated>2022-05-05T00:35:09.281Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt; 果断不拖延&lt;/li&gt;
+&lt;li&gt; 向成功人士学习&lt;/li&gt;
+&lt;li&gt; 立人生目标&lt;/li&gt;
+&lt;li&gt; 规划生活，解析问题&lt;/li&gt;
+&lt;li&gt; 终身学习，不被淘汰&lt;/li&gt;
+&lt;li&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="杂记" scheme="http://jasonguo1.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="人生" scheme="http://jasonguo1.github.io/tags/%E4%BA%BA%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>两整数交换</title>
+    <link href="http://jasonguo1.github.io/posts/11baf062.html"/>
+    <id>http://jasonguo1.github.io/posts/11baf062.html</id>
+    <published>2022-05-05T00:13:15.000Z</published>
+    <updated>2022-05-05T00:33:11.289Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;记录一道真实的面试题：两整数交换且不使用任何辅助变量&quot;&gt;&lt;a href=&quot;#记录一道真实的面试题：两整数交换且不使用任何辅助变量&quot; class=&quot;headerlink&quot; title=&quot;记录一道真实的面试题：两整数交换且不使用任何辅助变量&quot;&gt;&lt;/a&gt;记录一道真实的面试题：两整数交换且不使用任何辅助变量&lt;/h3&gt;</summary>
+    
+    
+    
+    <category term="技术面试" scheme="http://jasonguo1.github.io/categories/%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="位运算" scheme="http://jasonguo1.github.io/tags/%E4%BD%8D%E8%BF%90%E7%AE%97/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《风声》</title>
     <link href="http://jasonguo1.github.io/posts/2e5770a7.html"/>
     <id>http://jasonguo1.github.io/posts/2e5770a7.html</id>
     <published>2022-05-04T15:44:27.000Z</published>
-    <updated>2022-05-04T15:45:33.091Z</updated>
+    <updated>2022-05-04T15:45:53.376Z</updated>
     
     
     <summary type="html">&lt;p&gt;这部剧真的很好看，后面慢慢写。&lt;/p&gt;</summary>
@@ -36,11 +155,11 @@
   </entry>
   
   <entry>
-    <title>练习md语法</title>
+    <title>李诗</title>
     <link href="http://jasonguo1.github.io/posts/8c643033.html"/>
     <id>http://jasonguo1.github.io/posts/8c643033.html</id>
     <published>2022-05-04T15:16:15.000Z</published>
-    <updated>2022-05-04T15:35:52.080Z</updated>
+    <updated>2022-05-05T00:35:41.765Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;最喜欢李白的诗&quot;&gt;&lt;a href=&quot;#最喜欢李白的诗&quot; class=&quot;headerlink&quot; title=&quot;最喜欢李白的诗&quot;&gt;&lt;/a&gt;最喜欢李白的诗&lt;/h1&gt;&lt;p&gt;慢慢补充。&lt;/p&gt;
@@ -60,7 +179,7 @@
     <link href="http://jasonguo1.github.io/posts/890831eb.html"/>
     <id>http://jasonguo1.github.io/posts/890831eb.html</id>
     <published>2022-05-03T12:33:35.000Z</published>
-    <updated>2022-05-04T13:49:38.279Z</updated>
+    <updated>2022-05-05T00:57:00.774Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;这里是我收藏的常用学习站点&quot;&gt;&lt;a href=&quot;#这里是我收藏的常用学习站点&quot; class=&quot;headerlink&quot; title=&quot;这里是我收藏的常用学习站点&quot;&gt;&lt;/a&gt;</summary>
