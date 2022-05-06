@@ -6,7 +6,7 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2022-05-06T22:43:03.752Z</updated>
+  <updated>2022-05-06T22:49:16.170Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
@@ -17,14 +17,14 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>NLP入门介绍</title>
+    <title>NLP入门介绍（一）</title>
     <link href="http://jasonguo1.github.io/posts/24f715c3.html"/>
     <id>http://jasonguo1.github.io/posts/24f715c3.html</id>
     <published>2022-05-06T14:46:47.000Z</published>
-    <updated>2022-05-06T22:43:03.752Z</updated>
+    <updated>2022-05-06T22:49:16.170Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;NLP入门（一）&quot;&gt;&lt;a href=&quot;#NLP入门（一）&quot; class=&quot;headerlink&quot; title=&quot;NLP入门（一）&quot;&gt;&lt;/a&gt;NLP入门（一）&lt;/h1&gt;&lt;h2 id=&quot;1-基础知识&quot;&gt;&lt;a href=&quot;#1-基础知识&quot; class=&quot;headerlink&quot; title=&quot;1.基础知识&quot;&gt;&lt;/a&gt;1.基础知识&lt;/h2&gt;&lt;ul&gt;
+    <summary type="html">&lt;h1 id=&quot;NLP（自然语言处理）&quot;&gt;&lt;a href=&quot;#NLP（自然语言处理）&quot; class=&quot;headerlink&quot; title=&quot;NLP（自然语言处理）&quot;&gt;&lt;/a&gt;NLP（自然语言处理）&lt;/h1&gt;&lt;h2 id=&quot;1-基础知识&quot;&gt;&lt;a href=&quot;#1-基础知识&quot; class=&quot;headerlink&quot; title=&quot;1.基础知识&quot;&gt;&lt;/a&gt;1.基础知识&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;线性代数&lt;/li&gt;
 &lt;li&gt;概率论与数理统计&lt;/li&gt;
 &lt;li&gt;Python等编程技巧&lt;/li&gt;
@@ -44,15 +44,11 @@
 &lt;li&gt;HMM/CRF&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;神经网络&quot;&gt;&lt;a href=&quot;#神经网络&quot; class=&quot;headerlink&quot; title=&quot;神经网络&quot;&gt;&lt;/a&gt;神经网络&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;词向量&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;CNN&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;RNN/LSTM/CRU/Bidirectional&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;ELMo&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;BERT&lt;/p&gt;</summary>
+&lt;li&gt;词向量&lt;/li&gt;
+&lt;li&gt;CNN&lt;/li&gt;
+&lt;li&gt;RNN/LSTM/CRU/Bidirectional&lt;/li&gt;
+&lt;li&gt;ELMo&lt;/li&gt;
+&lt;li&gt;BERT</summary>
     
     
     
@@ -287,11 +283,11 @@
     <category term="杂记" scheme="http://jasonguo1.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
+    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
     <category term="游记" scheme="http://jasonguo1.github.io/tags/%E6%B8%B8%E8%AE%B0/"/>
     
     <category term="旅行" scheme="http://jasonguo1.github.io/tags/%E6%97%85%E8%A1%8C/"/>
-    
-    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="回忆" scheme="http://jasonguo1.github.io/tags/%E5%9B%9E%E5%BF%86/"/>
     
