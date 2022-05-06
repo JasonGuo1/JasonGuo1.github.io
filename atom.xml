@@ -6,7 +6,7 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2022-05-06T15:38:37.014Z</updated>
+  <updated>2022-05-06T22:43:03.752Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
@@ -21,16 +21,38 @@
     <link href="http://jasonguo1.github.io/posts/24f715c3.html"/>
     <id>http://jasonguo1.github.io/posts/24f715c3.html</id>
     <published>2022-05-06T14:46:47.000Z</published>
-    <updated>2022-05-06T15:38:37.014Z</updated>
+    <updated>2022-05-06T22:43:03.752Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;NLP入门（一）&quot;&gt;&lt;a href=&quot;#NLP入门（一）&quot; class=&quot;headerlink&quot; title=&quot;NLP入门（一）&quot;&gt;&lt;/a&gt;NLP入门（一）&lt;/h1&gt;&lt;h2 id=&quot;1-基础知识&quot;&gt;&lt;a href=&quot;#1-基础知识&quot;</summary>
-        
-      
+    <summary type="html">&lt;h1 id=&quot;NLP入门（一）&quot;&gt;&lt;a href=&quot;#NLP入门（一）&quot; class=&quot;headerlink&quot; title=&quot;NLP入门（一）&quot;&gt;&lt;/a&gt;NLP入门（一）&lt;/h1&gt;&lt;h2 id=&quot;1-基础知识&quot;&gt;&lt;a href=&quot;#1-基础知识&quot; class=&quot;headerlink&quot; title=&quot;1.基础知识&quot;&gt;&lt;/a&gt;1.基础知识&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;线性代数&lt;/li&gt;
+&lt;li&gt;概率论与数理统计&lt;/li&gt;
+&lt;li&gt;Python等编程技巧&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;2-经典模型&quot;&gt;&lt;a href=&quot;#2-经典模型&quot; class=&quot;headerlink&quot; title=&quot;2.经典模型&quot;&gt;&lt;/a&gt;2.经典模型&lt;/h2&gt;&lt;h3 id=&quot;统计机器学习&quot;&gt;&lt;a href=&quot;#统计机器学习&quot; class=&quot;headerlink&quot; title=&quot;统计机器学习&quot;&gt;&lt;/a&gt;统计机器学习&lt;/h3&gt;&lt;h4 id=&quot;线性分类&quot;&gt;&lt;a href=&quot;#线性分类&quot; class=&quot;headerlink&quot; title=&quot;线性分类&quot;&gt;&lt;/a&gt;线性分类&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;感知机&lt;/li&gt;
+&lt;li&gt;逻辑回归&lt;/li&gt;
+&lt;li&gt;朴素贝叶斯&lt;h4 id=&quot;SVM&quot;&gt;&lt;a href=&quot;#SVM&quot; class=&quot;headerlink&quot; title=&quot;SVM&quot;&gt;&lt;/a&gt;SVM&lt;/h4&gt;&lt;/li&gt;
+&lt;li&gt;支持向量机&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;树模型&quot;&gt;&lt;a href=&quot;#树模型&quot; class=&quot;headerlink&quot; title=&quot;树模型&quot;&gt;&lt;/a&gt;树模型&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;1984 CART&lt;/li&gt;
+&lt;li&gt;1993 C4.5&lt;/li&gt;
+&lt;li&gt;2001 RF&lt;/li&gt;
+&lt;li&gt;2016 XGBoost&lt;/li&gt;
+&lt;li&gt;2017 LightGBM&lt;/li&gt;
+&lt;li&gt;HMM/CRF&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;神经网络&quot;&gt;&lt;a href=&quot;#神经网络&quot; class=&quot;headerlink&quot; title=&quot;神经网络&quot;&gt;&lt;/a&gt;神经网络&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;词向量&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CNN&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;RNN/LSTM/CRU/Bidirectional&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ELMo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;BERT&lt;/p&gt;</summary>
     
     
     
@@ -48,16 +70,12 @@
     <link href="http://jasonguo1.github.io/posts/aa7b740b.html"/>
     <id>http://jasonguo1.github.io/posts/aa7b740b.html</id>
     <published>2022-05-06T13:19:37.000Z</published>
-    <updated>2022-05-06T13:33:53.727Z</updated>
+    <updated>2022-05-06T22:41:51.077Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;416组合&quot;&gt;&lt;a href=&quot;#416组合&quot; class=&quot;headerlink&quot; title=&quot;416组合&quot;&gt;&lt;/a&gt;416组合&lt;/h2&gt;&lt;h3 id=&quot;用戏腔打开经典武侠歌曲竟然是这样&quot;&gt;&lt;a href=&quot;#用戏腔打开经典武侠歌曲竟然是这样&quot;</summary>
-        
-      
+    <summary type="html">&lt;h2 id=&quot;416组合&quot;&gt;&lt;a href=&quot;#416组合&quot; class=&quot;headerlink&quot; title=&quot;416组合&quot;&gt;&lt;/a&gt;416组合&lt;/h2&gt;&lt;h3 id=&quot;用戏腔打开经典武侠歌曲竟然是这样&quot;&gt;&lt;a href=&quot;#用戏腔打开经典武侠歌曲竟然是这样&quot; class=&quot;headerlink&quot; title=&quot;用戏腔打开经典武侠歌曲竟然是这样&quot;&gt;&lt;/a&gt;用戏腔打开经典武侠歌曲竟然是这样&lt;/h3&gt;&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt;
+&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=938381721&amp;bvid=BV1zT4y1a7cM&amp;cid=583122559&amp;page=1&amp;high_quality=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;  style=&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot; sandbox=&quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&quot;&gt; &lt;/iframe&gt;
+&lt;/div&gt;</summary>
     
     
     
@@ -269,11 +287,11 @@
     <category term="杂记" scheme="http://jasonguo1.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="游记" scheme="http://jasonguo1.github.io/tags/%E6%B8%B8%E8%AE%B0/"/>
     
     <category term="旅行" scheme="http://jasonguo1.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="回忆" scheme="http://jasonguo1.github.io/tags/%E5%9B%9E%E5%BF%86/"/>
     
