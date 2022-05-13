@@ -6,29 +6,63 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2022-05-08T09:09:29.824Z</updated>
+  <updated>2022-05-13T12:48:51.876Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
-    <name>想当卷王的Jason</name>
+    <name>Jason</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>科研工具</title>
+    <link href="http://jasonguo1.github.io/posts/7c69d6fd.html"/>
+    <id>http://jasonguo1.github.io/posts/7c69d6fd.html</id>
+    <published>2022-05-13T12:41:51.000Z</published>
+    <updated>2022-05-13T12:48:51.876Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;论文阅读工具&lt;br&gt; 1.1 论文阅读&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt; 1. EndNote
+ 
+    Endnote是一款被广泛使用的文献管理软件，其是SCI（Thomson Scientific</summary>
+        
+      
+    
+    
+    
+    <category term="研" scheme="http://jasonguo1.github.io/categories/%E7%A0%94/"/>
+    
+    
+    <category term="科研工具" scheme="http://jasonguo1.github.io/tags/%E7%A7%91%E7%A0%94%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="人工智能" scheme="http://jasonguo1.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>唐诗</title>
     <link href="http://jasonguo1.github.io/posts/8e886c3f.html"/>
     <id>http://jasonguo1.github.io/posts/8e886c3f.html</id>
     <published>2022-05-07T13:06:47.000Z</published>
-    <updated>2022-05-08T09:09:29.824Z</updated>
+    <updated>2022-05-13T12:01:20.307Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;春江花月夜&quot;&gt;&lt;a href=&quot;#春江花月夜&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;h2 id=&quot;春江花月夜&quot;&gt;&lt;a href=&quot;#春江花月夜&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -46,7 +80,7 @@
     <link href="http://jasonguo1.github.io/posts/24f715c3.html"/>
     <id>http://jasonguo1.github.io/posts/24f715c3.html</id>
     <published>2022-05-06T14:46:47.000Z</published>
-    <updated>2022-05-06T22:49:16.170Z</updated>
+    <updated>2022-05-13T12:01:30.490Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;NLP（自然语言处理）&quot;&gt;&lt;a href=&quot;#NLP（自然语言处理）&quot; class=&quot;headerlink&quot; title=&quot;NLP（自然语言处理）&quot;&gt;&lt;/a&gt;NLP（自然语言处理）&lt;/h1&gt;&lt;h2 id=&quot;1-基础知识&quot;&gt;&lt;a href=&quot;#1-基础知识&quot; class=&quot;headerlink&quot; title=&quot;1.基础知识&quot;&gt;&lt;/a&gt;1.基础知识&lt;/h2&gt;&lt;ul&gt;
@@ -54,26 +88,7 @@
 &lt;li&gt;概率论与数理统计&lt;/li&gt;
 &lt;li&gt;Python等编程技巧&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;2-经典模型&quot;&gt;&lt;a href=&quot;#2-经典模型&quot; class=&quot;headerlink&quot; title=&quot;2.经典模型&quot;&gt;&lt;/a&gt;2.经典模型&lt;/h2&gt;&lt;h3 id=&quot;统计机器学习&quot;&gt;&lt;a href=&quot;#统计机器学习&quot; class=&quot;headerlink&quot; title=&quot;统计机器学习&quot;&gt;&lt;/a&gt;统计机器学习&lt;/h3&gt;&lt;h4 id=&quot;线性分类&quot;&gt;&lt;a href=&quot;#线性分类&quot; class=&quot;headerlink&quot; title=&quot;线性分类&quot;&gt;&lt;/a&gt;线性分类&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;感知机&lt;/li&gt;
-&lt;li&gt;逻辑回归&lt;/li&gt;
-&lt;li&gt;朴素贝叶斯&lt;h4 id=&quot;SVM&quot;&gt;&lt;a href=&quot;#SVM&quot; class=&quot;headerlink&quot; title=&quot;SVM&quot;&gt;&lt;/a&gt;SVM&lt;/h4&gt;&lt;/li&gt;
-&lt;li&gt;支持向量机&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;树模型&quot;&gt;&lt;a href=&quot;#树模型&quot; class=&quot;headerlink&quot; title=&quot;树模型&quot;&gt;&lt;/a&gt;树模型&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;1984 CART&lt;/li&gt;
-&lt;li&gt;1993 C4.5&lt;/li&gt;
-&lt;li&gt;2001 RF&lt;/li&gt;
-&lt;li&gt;2016 XGBoost&lt;/li&gt;
-&lt;li&gt;2017 LightGBM&lt;/li&gt;
-&lt;li&gt;HMM/CRF&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;神经网络&quot;&gt;&lt;a href=&quot;#神经网络&quot; class=&quot;headerlink&quot; title=&quot;神经网络&quot;&gt;&lt;/a&gt;神经网络&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;词向量&lt;/li&gt;
-&lt;li&gt;CNN&lt;/li&gt;
-&lt;li&gt;RNN/LSTM/CRU/Bidirectional&lt;/li&gt;
-&lt;li&gt;ELMo&lt;/li&gt;
-&lt;li&gt;BERT</summary>
+&lt;h2 id=&quot;2-经典模型&quot;&gt;&lt;a href=&quot;#2-经典模型&quot; class=&quot;headerlink&quot; title=&quot;2.经典模型&quot;&gt;&lt;/a&gt;2.经典模型&lt;/h2&gt;</summary>
     
     
     
@@ -112,7 +127,7 @@
     <link href="http://jasonguo1.github.io/posts/c7c49309.html"/>
     <id>http://jasonguo1.github.io/posts/c7c49309.html</id>
     <published>2022-05-05T00:29:56.000Z</published>
-    <updated>2022-05-06T23:39:02.794Z</updated>
+    <updated>2022-05-13T12:01:56.450Z</updated>
     
     
     <summary type="html">&lt;p&gt;记录博客图床搭建过程，希望能帮助到有需要的人&lt;/p&gt;</summary>
@@ -180,20 +195,23 @@
     <link href="http://jasonguo1.github.io/posts/7aa01b91.html"/>
     <id>http://jasonguo1.github.io/posts/7aa01b91.html</id>
     <published>2022-05-05T00:23:14.000Z</published>
-    <updated>2022-05-06T23:14:07.662Z</updated>
+    <updated>2022-05-13T12:01:46.730Z</updated>
     
     
-    <summary type="html">&lt;ul&gt;
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+&lt;ul&gt;
 &lt;li&gt; 果断不拖延&lt;/li&gt;
 &lt;li&gt; 向优秀的人学习&lt;/li&gt;
 &lt;li&gt; 立人生目标&lt;/li&gt;
 &lt;li&gt; 规划生活，解析问题&lt;/li&gt;
 &lt;li&gt; 终身学习，不被淘汰&lt;/li&gt;
-&lt;li&gt; 对自己决定负责任&lt;/li&gt;
-&lt;li&gt; 面对现实，不找借口&lt;/li&gt;
-&lt;li&gt; 不知道的事情不要假猜测，要问&lt;/li&gt;
-&lt;li&gt; 没有偷懒的捷径&lt;/li&gt;
-&lt;li&gt; 把事做成有效率</summary>
+&lt;li&gt;</summary>
+        
+      
     
     
     
@@ -228,12 +246,19 @@
     <link href="http://jasonguo1.github.io/posts/2e5770a7.html"/>
     <id>http://jasonguo1.github.io/posts/2e5770a7.html</id>
     <published>2022-05-04T15:44:27.000Z</published>
-    <updated>2022-05-05T04:38:50.583Z</updated>
+    <updated>2022-05-13T12:02:03.333Z</updated>
     
     
-    <summary type="html">&lt;p&gt;这部剧真的很好看，后面慢慢写。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/JasonGuo1/myBlogPicBed@master//img/2022fs1.gif&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/JasonGuo1/myBlogPicBed@master//img/2022jsh.jpeg&quot;&gt;&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;p&gt;这部剧真的很好看，后面慢慢写。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
     
     
     
@@ -270,7 +295,7 @@
     <link href="http://jasonguo1.github.io/posts/890831eb.html"/>
     <id>http://jasonguo1.github.io/posts/890831eb.html</id>
     <published>2022-05-03T12:33:35.000Z</published>
-    <updated>2022-05-13T11:55:17.954Z</updated>
+    <updated>2022-05-13T12:02:09.965Z</updated>
     
     
     <summary type="html">&lt;h2 id=&quot;这里是我收藏的常用学习站点&quot;&gt;&lt;a href=&quot;#这里是我收藏的常用学习站点&quot; class=&quot;headerlink&quot; title=&quot;这里是我收藏的常用学习站点&quot;&gt;&lt;/a&gt;</summary>
@@ -280,9 +305,9 @@
     <category term="学习网站" scheme="http://jasonguo1.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="刷题" scheme="http://jasonguo1.github.io/tags/%E5%88%B7%E9%A2%98/"/>
-    
     <category term="人工智能" scheme="http://jasonguo1.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    <category term="刷题" scheme="http://jasonguo1.github.io/tags/%E5%88%B7%E9%A2%98/"/>
     
     <category term="前端" scheme="http://jasonguo1.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
@@ -295,7 +320,7 @@
     <link href="http://jasonguo1.github.io/posts/35309.html"/>
     <id>http://jasonguo1.github.io/posts/35309.html</id>
     <published>2022-05-03T07:30:35.000Z</published>
-    <updated>2022-05-11T13:16:15.495Z</updated>
+    <updated>2022-05-13T12:02:05.650Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;拜访过的景点&quot;&gt;&lt;a href=&quot;#拜访过的景点&quot; class=&quot;headerlink&quot; title=&quot;拜访过的景点&quot;&gt;&lt;/a&gt;</summary>
