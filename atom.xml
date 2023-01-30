@@ -6,7 +6,7 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2022-05-17T01:37:23.294Z</updated>
+  <updated>2023-01-30T14:53:48.078Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>兔年首发</title>
+    <link href="http://jasonguo1.github.io/posts/ca0aca5b.html"/>
+    <id>http://jasonguo1.github.io/posts/ca0aca5b.html</id>
+    <published>2023-01-30T13:47:40.000Z</published>
+    <updated>2023-01-30T14:53:48.078Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;一个旅行小目标&quot;&gt;&lt;a href=&quot;#一个旅行小目标&quot; class=&quot;headerlink&quot; title=&quot;一个旅行小目标&quot;&gt;&lt;/a&gt;</summary>
+    
+    
+    
+    <category term="杂记" scheme="http://jasonguo1.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="旅行" scheme="http://jasonguo1.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>英文外刊学习网站</title>
@@ -374,9 +395,9 @@
     
     <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="游记" scheme="http://jasonguo1.github.io/tags/%E6%B8%B8%E8%AE%B0/"/>
-    
     <category term="旅行" scheme="http://jasonguo1.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+    <category term="游记" scheme="http://jasonguo1.github.io/tags/%E6%B8%B8%E8%AE%B0/"/>
     
     <category term="回忆" scheme="http://jasonguo1.github.io/tags/%E5%9B%9E%E5%BF%86/"/>
     
