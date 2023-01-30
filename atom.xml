@@ -6,7 +6,7 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2023-01-30T14:53:48.078Z</updated>
+  <updated>2023-01-30T15:38:00.070Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://jasonguo1.github.io/posts/ca0aca5b.html"/>
     <id>http://jasonguo1.github.io/posts/ca0aca5b.html</id>
     <published>2023-01-30T13:47:40.000Z</published>
-    <updated>2023-01-30T14:53:48.078Z</updated>
+    <updated>2023-01-30T15:38:00.070Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;一个旅行小目标&quot;&gt;&lt;a href=&quot;#一个旅行小目标&quot; class=&quot;headerlink&quot; title=&quot;一个旅行小目标&quot;&gt;&lt;/a&gt;</summary>
@@ -31,9 +31,9 @@
     <category term="杂记" scheme="http://jasonguo1.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="旅行" scheme="http://jasonguo1.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -393,9 +393,9 @@
     <category term="杂记" scheme="http://jasonguo1.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="旅行" scheme="http://jasonguo1.github.io/tags/%E6%97%85%E8%A1%8C/"/>
+    
+    <category term="随笔" scheme="http://jasonguo1.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="游记" scheme="http://jasonguo1.github.io/tags/%E6%B8%B8%E8%AE%B0/"/>
     
