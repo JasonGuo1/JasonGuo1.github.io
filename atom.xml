@@ -6,7 +6,7 @@
   <link href="http://jasonguo1.github.io/atom.xml" rel="self"/>
   
   <link href="http://jasonguo1.github.io/"/>
-  <updated>2023-01-30T15:38:00.070Z</updated>
+  <updated>2023-02-03T03:39:06.942Z</updated>
   <id>http://jasonguo1.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记录下装vue-cli遇到的坑</title>
+    <link href="http://jasonguo1.github.io/posts/46141280.html"/>
+    <id>http://jasonguo1.github.io/posts/46141280.html</id>
+    <published>2023-02-03T03:34:00.000Z</published>
+    <updated>2023-02-03T03:39:06.942Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;参加下面的文章&lt;/p&gt;
+&lt;h1 id=&quot;方式1&quot;&gt;&lt;a href=&quot;#方式1&quot; class=&quot;headerlink&quot; title=&quot;方式1&quot;&gt;&lt;/a&gt;方式1&lt;/h1&gt;&lt;p&gt;CLI，俗称脚手架。全称是&lt;code&gt;Command Line Interface&lt;/code&gt;。</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="http://jasonguo1.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="Vue" scheme="http://jasonguo1.github.io/tags/Vue/"/>
+    
+  </entry>
   
   <entry>
     <title>兔年首发</title>
